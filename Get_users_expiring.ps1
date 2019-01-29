@@ -3,7 +3,7 @@
 PowerShell script to get expiring AD accounts
   
 File		: Get_users_expiring.PS1
-Author		: Martin Soubre
+Author		: Moubai
 Date		: 29-01-2019
 Version		: 1.0
 
